@@ -26,4 +26,4 @@ Looking ahead, future enhancements will focus on infrastructure scaling, automat
 generation, multimodal document understanding, and prompt optimization tailored to financial
 domains. This project serves as a compelling proof of concept for how generative AI can
 democratize financial literacy, reduce analysis time, and enhance decision-making across
-sectors.
+sectors. https://colab.research.google.com/drive/1o21o6HRmDtF28bCI5yTackJcR7JkrFud?usp=sharing#scrollTo=uL2XOF5HUnmS
